@@ -1,9 +1,21 @@
-- title: Graduate Student | Computer Engineering | San Jose State University
-  from: 2025
-  to: 2026
-  description: Returning to my Alma Mater, I am pursuing a Master's degree in Computer Engineering with a focus on FPGA design and digital systems. 
-               This program is designed to deepen my understanding of advanced topics in computer engineering, including high-level synthesis, hardware-software co-design, and system-on-chip design.
-               I am also involved in research projects that explore the application of FPGAs in various domains, such as machine learning and data processing.
+# - title: Graduate Student | Computer Engineering | San Jose State University
+#   from: 2025
+#   to: 2027
+#   description: Returning to my Alma Mater, I am pursuing a Master's degree in Computer Engineering with a focus on FPGA design and digital systems. 
+#                This program is designed to deepen my understanding of advanced topics in computer engineering, including high-level synthesis, hardware-software co-design, and system-on-chip design.
+#                I am also involved in research projects that explore the application of FPGAs in various domains, such as machine learning and data processing.
+- title: R&D Operator | Stealth Startup
+  from: February 2026
+  to: Present
+  description:  As an R&D Operator at a stealth startup, I operate specialized robotic systems for research and development. I test and validate hardware and software and 
+                collaborate with engineers to provide product feedback. I also follow standard operating procedures (SOPs) for QA purposes.  
+
+- title: Network Rack Operator II | Hyve Solutions
+  from: July 2025
+  to: February 2026
+  description:  As a Network Rack Operator II at Hyve Solutions, I was responsible for the physical installation of vertical cable management baffles,
+                ensuring proper ISO 9001:2015 compliance. I also handled the unboxing and preparation of network equipment, including server switches and power
+                distribution units (PDUs).
 
 - title: Student | Computer Engineering | San Jose State University
   from: 2021
